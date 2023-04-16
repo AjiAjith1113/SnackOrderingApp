@@ -11,6 +11,6 @@ Ajith             : https://g.dev/Ajith1113
 
 Stephenrijoe      : https://g.dev/STEPHENRIJOE
 
-Bala Subramaniyan : https://g.dev/Balasubramanian
+Bala Subramanian : https://g.dev/Balasubramanian
 
 Allwin             : https://g.dev/ALLWINa
