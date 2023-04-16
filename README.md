@@ -7,10 +7,10 @@ https://drive.google.com/file/d/1L_pnkEh4rl0oyLBUoNbnjUs5qDzttyKT/view?usp=shari
 
 # Google Develovers Profile
 
-Ajith: https://g.dev/Ajith1113
+Ajith             : https://g.dev/Ajith1113
 
-Stephenrijoe: https://g.dev/STEPHENRIJOE
+Stephenrijoe      : https://g.dev/STEPHENRIJOE
 
-Bala Subramaniyan: https://g.dev/Balasubramanian
+Bala Subramaniyan : https://g.dev/Balasubramanian
 
-Allwin: https://g.dev/ALLWINa
+Allwin             : https://g.dev/ALLWINa
